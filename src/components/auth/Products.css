@@ -1,0 +1,16 @@
+.products{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+
+}
+
+.product{
+    background-color: rgb(230, 238, 255);
+    border: 1px dotted rgb(120, 155, 229);
+    padding: 0.7rem;
+    margin:0.5rem 0;
+    width:200px;
+
+}
